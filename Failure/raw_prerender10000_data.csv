@@ -1,0 +1,284 @@
+Condition,Page,Trial_No,LCP_ms,FCP_ms,Transfer_MB,Prerendered
+vanilla,Light,1,92.90,92.90,0.01,true
+vanilla,Light,2,72.60,0.00,0.01,true
+vanilla,Light,3,94.30,0.00,0.01,true
+vanilla,Light,4,74.20,0.00,0.01,true
+vanilla,Light,5,91.60,0.00,0.01,true
+vanilla,Light,6,97.30,0.00,0.01,true
+vanilla,Light,7,86.50,0.00,0.01,true
+vanilla,Light,8,90.00,0.00,0.01,true
+vanilla,Light,9,94.80,0.00,0.01,true
+vanilla,Light,10,103.50,0.00,0.01,true
+vanilla,Light,11,90.20,0.00,0.01,true
+vanilla,Light,12,80.10,0.00,0.01,true
+vanilla,Light,13,71.50,0.00,0.01,true
+vanilla,Light,14,92.30,0.00,0.01,true
+vanilla,Light,15,71.00,0.00,0.01,true
+vanilla,Light,16,91.50,0.00,0.01,true
+vanilla,Light,17,84.50,0.00,0.01,true
+vanilla,Light,18,99.30,0.00,0.01,true
+vanilla,Light,19,102.20,0.00,0.01,true
+vanilla,Light,20,89.60,0.00,0.01,true
+vanilla,Light,21,82.00,0.00,0.01,true
+vanilla,Light,22,105.70,0.00,0.01,true
+vanilla,Light,23,105.80,0.00,0.01,true
+vanilla,Light,24,79.90,0.00,0.01,true
+vanilla,Light,25,101.00,0.00,0.01,true
+vanilla,Light,26,95.00,0.00,0.01,true
+vanilla,Light,27,89.00,0.00,0.01,true
+vanilla,Light,28,94.10,0.00,0.01,true
+vanilla,Light,29,98.70,0.00,0.01,true
+vanilla,Light,30,84.20,0.00,0.01,true
+vanilla,Medium,1,251.90,0.00,1.85,true
+vanilla,Medium,2,112.30,0.00,1.85,true
+vanilla,Medium,3,100.80,0.00,1.85,true
+vanilla,Medium,4,107.60,0.00,1.85,true
+vanilla,Medium,5,100.70,0.00,1.85,true
+vanilla,Medium,6,105.00,0.00,1.85,true
+vanilla,Medium,7,118.90,0.00,1.85,true
+vanilla,Medium,8,95.00,0.00,1.85,true
+vanilla,Medium,9,109.70,0.00,1.85,true
+vanilla,Medium,10,87.40,0.00,1.85,true
+vanilla,Medium,11,104.50,0.00,1.85,true
+vanilla,Medium,12,111.40,0.00,1.85,true
+vanilla,Medium,13,106.60,0.00,1.85,true
+vanilla,Medium,14,92.80,0.00,1.85,true
+vanilla,Medium,15,89.60,0.00,1.85,true
+vanilla,Medium,16,91.30,0.00,1.85,true
+vanilla,Medium,17,105.50,0.00,1.85,true
+vanilla,Medium,18,107.30,0.00,1.85,true
+vanilla,Medium,19,113.10,0.00,1.85,true
+vanilla,Medium,20,384.00,152.00,1.85,false
+vanilla,Medium,21,106.30,0.00,1.85,true
+vanilla,Medium,22,92.00,0.00,1.85,true
+vanilla,Medium,23,95.10,0.00,1.85,true
+vanilla,Medium,24,90.50,0.00,1.85,true
+vanilla,Medium,25,93.60,0.00,1.85,true
+vanilla,Medium,26,109.90,0.00,1.85,true
+vanilla,Medium,27,101.60,0.00,1.85,true
+vanilla,Medium,28,101.00,0.00,1.85,true
+vanilla,Medium,29,105.10,0.00,1.85,true
+vanilla,Medium,30,108.50,0.00,1.85,true
+vanilla,Heavy,1,119.20,0.00,12.02,true
+vanilla,Heavy,2,133.50,0.00,12.02,true
+vanilla,Heavy,3,187.80,0.00,7.21,true
+vanilla,Heavy,4,126.10,0.00,12.02,true
+vanilla,Heavy,5,135.60,0.00,12.02,true
+vanilla,Heavy,6,137.60,0.00,12.02,true
+vanilla,Heavy,7,144.30,0.00,4.81,true
+vanilla,Heavy,8,180.30,0.00,12.02,true
+vanilla,Heavy,9,161.50,0.00,12.02,true
+vanilla,Heavy,10,137.20,0.00,12.02,true
+vanilla,Heavy,11,144.10,0.00,12.02,true
+vanilla,Heavy,12,143.30,0.00,12.02,true
+vanilla,Heavy,13,123.70,0.00,12.02,true
+vanilla,Heavy,14,3268.20,0.00,4.81,true
+vanilla,Heavy,15,157.10,0.00,12.02,true
+vanilla,Heavy,16,151.40,0.00,12.02,true
+vanilla,Heavy,17,204.70,0.00,12.02,true
+vanilla,Heavy,18,170.40,0.00,12.02,true
+vanilla,Heavy,19,162.10,0.00,12.02,true
+vanilla,Heavy,20,144.50,0.00,12.02,true
+vanilla,Heavy,21,166.70,0.00,12.02,true
+vanilla,Heavy,22,131.90,0.00,12.02,true
+vanilla,Heavy,23,123.60,0.00,12.02,true
+vanilla,Heavy,24,137.20,0.00,12.02,true
+vanilla,Heavy,25,147.80,0.00,12.02,true
+vanilla,Heavy,26,140.40,0.00,12.02,true
+vanilla,Heavy,27,138.80,0.00,12.02,true
+vanilla,Heavy,28,195.50,0.00,12.02,true
+vanilla,Heavy,29,166.50,0.00,12.02,true
+vanilla,Heavy,30,136.50,0.00,12.02,true
+Fast 4G,Light,1,172.00,0.00,0.01,false
+Fast 4G,Light,2,120.00,0.00,0.01,false
+Fast 4G,Light,3,88.00,0.00,0.01,false
+Fast 4G,Light,4,116.00,0.00,0.01,false
+Fast 4G,Light,5,96.00,0.00,0.01,false
+Fast 4G,Light,6,104.00,0.00,0.01,false
+Fast 4G,Light,7,108.00,0.00,0.01,false
+Fast 4G,Light,8,88.00,0.00,0.01,false
+Fast 4G,Light,9,100.00,0.00,0.01,false
+Fast 4G,Light,10,116.00,0.00,0.01,false
+Fast 4G,Light,11,96.00,0.00,0.01,false
+Fast 4G,Light,12,120.00,0.00,0.01,false
+Fast 4G,Light,13,112.00,0.00,0.01,false
+Fast 4G,Light,14,124.00,0.00,0.01,false
+Fast 4G,Light,15,112.00,0.00,0.01,false
+Fast 4G,Light,16,108.00,0.00,0.01,false
+Fast 4G,Light,17,108.00,0.00,0.01,false
+Fast 4G,Light,18,104.00,0.00,0.01,false
+Fast 4G,Light,19,112.00,0.00,0.01,false
+Fast 4G,Light,20,128.00,0.00,0.01,false
+Fast 4G,Light,21,108.00,0.00,0.01,false
+Fast 4G,Light,22,92.00,0.00,0.01,false
+Fast 4G,Light,23,128.00,0.00,0.01,false
+Fast 4G,Light,24,100.00,0.00,0.01,false
+Fast 4G,Light,25,132.00,0.00,0.01,false
+Fast 4G,Light,26,220.00,0.00,0.01,false
+Fast 4G,Light,27,128.00,0.00,0.01,false
+Fast 4G,Light,28,108.00,0.00,0.01,false
+Fast 4G,Light,29,108.00,0.00,0.01,false
+Fast 4G,Light,30,100.00,0.00,0.01,false
+Fast 4G,Medium,1,684.00,484.00,1.85,false
+Fast 4G,Medium,2,176.00,108.00,1.85,false
+Fast 4G,Medium,3,520.00,136.00,1.85,false
+Fast 4G,Medium,4,12216.00,8400.00,1.85,false
+Fast 4G,Medium,5,3188.00,2288.00,1.85,false
+Fast 4G,Medium,6,408.00,124.00,1.85,false
+Fast 4G,Medium,7,152.00,104.00,1.85,false
+Fast 4G,Medium,8,208.00,124.00,1.85,false
+Fast 4G,Medium,9,316.00,116.00,1.85,false
+Fast 4G,Medium,10,456.00,108.00,1.85,false
+Fast 4G,Medium,11,1036.00,172.00,1.85,false
+Fast 4G,Medium,12,420.00,156.00,1.85,false
+Fast 4G,Medium,13,180.00,132.00,1.85,false
+Fast 4G,Medium,14,232.00,132.00,1.85,false
+Fast 4G,Medium,15,1644.00,1628.00,1.85,false
+Fast 4G,Medium,16,612.00,128.00,1.85,false
+Fast 4G,Medium,17,212.00,112.00,1.85,false
+Fast 4G,Medium,18,156.00,124.00,1.85,false
+Fast 4G,Medium,19,852.00,368.00,1.85,false
+Fast 4G,Medium,20,380.00,128.00,1.85,false
+Fast 4G,Medium,21,288.00,104.00,1.85,false
+Fast 4G,Medium,22,144.00,108.00,1.85,false
+Fast 4G,Medium,23,448.00,112.00,1.85,false
+Fast 4G,Medium,24,200.00,100.00,1.85,false
+Fast 4G,Medium,25,168.00,104.00,1.85,false
+Fast 4G,Medium,26,608.00,124.00,1.85,false
+Fast 4G,Medium,27,196.00,112.00,1.85,false
+Fast 4G,Medium,28,280.00,180.00,1.85,false
+Fast 4G,Medium,29,284.00,120.00,1.85,false
+Fast 4G,Medium,30,168.00,100.00,1.85,false
+Fast 4G,Heavy,1,3328.00,496.00,12.02,false
+Fast 4G,Heavy,2,2912.00,96.00,12.02,false
+Fast 4G,Heavy,3,1388.00,88.00,12.02,false
+Fast 4G,Heavy,4,1284.00,100.00,12.02,false
+Fast 4G,Heavy,5,1468.00,104.00,12.02,false
+Fast 4G,Heavy,6,1380.00,96.00,12.02,false
+Fast 4G,Heavy,7,1596.00,96.00,12.02,false
+Fast 4G,Heavy,8,1700.00,168.00,12.02,false
+Fast 4G,Heavy,9,1160.00,92.00,12.02,false
+Fast 4G,Heavy,10,2744.00,160.00,12.02,false
+Fast 4G,Heavy,11,1356.00,120.00,12.02,false
+Fast 4G,Heavy,12,2236.00,104.00,12.02,false
+Fast 4G,Heavy,13,1564.00,112.00,12.02,false
+Fast 4G,Heavy,14,1560.00,96.00,12.02,false
+Fast 4G,Heavy,15,1792.00,108.00,12.02,false
+Fast 4G,Heavy,16,1588.00,104.00,12.02,false
+Fast 4G,Heavy,17,2068.00,116.00,12.02,false
+Fast 4G,Heavy,18,2328.00,228.00,12.02,false
+Fast 4G,Heavy,19,3956.00,120.00,12.02,false
+Fast 4G,Heavy,20,1220.00,104.00,12.02,false
+Fast 4G,Heavy,21,4280.00,96.00,12.02,false
+Fast 4G,Heavy,22,1640.00,108.00,12.02,false
+Fast 4G,Heavy,23,1920.00,100.00,12.02,false
+Fast 4G,Heavy,24,1252.00,100.00,12.02,false
+Fast 4G,Heavy,25,1556.00,104.00,12.02,false
+Fast 4G,Heavy,26,1436.00,104.00,12.02,false
+Fast 4G,Heavy,27,1364.00,112.00,12.02,false
+Fast 4G,Heavy,28,3420.00,140.00,12.02,false
+Fast 4G,Heavy,29,1328.00,108.00,12.02,false
+Fast 4G,Heavy,30,2732.00,100.00,12.02,false
+Regular 4G,Light,1,500.00,0.00,0.01,false
+Regular 4G,Light,2,124.00,0.00,0.01,false
+Regular 4G,Light,3,132.00,0.00,0.01,false
+Regular 4G,Light,4,108.00,0.00,0.01,false
+Regular 4G,Light,5,128.00,0.00,0.01,false
+Regular 4G,Light,6,112.00,0.00,0.01,false
+Regular 4G,Light,7,140.00,0.00,0.01,false
+Regular 4G,Light,8,296.00,0.00,0.01,false
+Regular 4G,Light,9,120.00,0.00,0.01,false
+Regular 4G,Light,10,124.00,0.00,0.01,false
+Regular 4G,Light,11,148.00,0.00,0.01,false
+Regular 4G,Light,12,116.00,0.00,0.01,false
+Regular 4G,Light,13,132.00,0.00,0.01,false
+Regular 4G,Light,14,124.00,0.00,0.01,false
+Regular 4G,Light,15,120.00,0.00,0.01,false
+Regular 4G,Light,16,96.00,0.00,0.01,false
+Regular 4G,Light,17,128.00,0.00,0.01,false
+Regular 4G,Light,18,132.00,0.00,0.01,false
+Regular 4G,Light,19,132.00,0.00,0.01,false
+Regular 4G,Light,20,120.00,0.00,0.01,false
+Regular 4G,Light,21,120.00,0.00,0.01,false
+Regular 4G,Light,22,120.00,0.00,0.01,false
+Regular 4G,Light,23,116.00,0.00,0.01,false
+Regular 4G,Light,24,168.00,0.00,0.01,false
+Regular 4G,Light,25,116.00,0.00,0.01,false
+Regular 4G,Light,26,132.00,0.00,0.01,false
+Regular 4G,Light,27,124.00,0.00,0.01,false
+Regular 4G,Light,28,132.00,0.00,0.01,false
+Regular 4G,Light,29,120.00,0.00,0.01,false
+Regular 4G,Light,30,112.00,0.00,0.01,false
+Regular 4G,Medium,1,928.00,492.00,1.85,false
+Regular 4G,Medium,2,360.00,128.00,1.85,false
+Regular 4G,Medium,3,232.00,132.00,1.85,false
+Regular 4G,Medium,4,212.00,128.00,1.85,false
+Regular 4G,Medium,5,272.00,120.00,1.85,false
+Regular 4G,Medium,6,236.00,136.00,1.85,false
+Regular 4G,Medium,7,364.00,132.00,1.85,false
+Regular 4G,Medium,8,208.00,140.00,1.85,false
+Regular 4G,Medium,9,516.00,132.00,1.85,false
+Regular 4G,Medium,10,332.00,112.00,1.85,false
+Regular 4G,Medium,11,288.00,104.00,1.85,false
+Regular 4G,Medium,12,368.00,132.00,1.85,false
+Regular 4G,Medium,13,280.00,112.00,1.85,false
+Regular 4G,Medium,14,324.00,124.00,1.85,false
+Regular 4G,Medium,15,308.00,124.00,1.85,false
+Regular 4G,Medium,16,260.00,112.00,1.85,false
+Regular 4G,Medium,17,276.00,124.00,1.85,false
+Regular 4G,Medium,18,376.00,124.00,1.85,false
+Regular 4G,Medium,19,348.00,116.00,1.85,false
+Regular 4G,Medium,20,284.00,136.00,1.85,false
+Regular 4G,Medium,21,416.00,116.00,1.85,false
+Regular 4G,Medium,22,336.00,120.00,1.85,false
+Regular 4G,Medium,23,296.00,128.00,1.85,false
+Regular 4G,Medium,24,428.00,112.00,1.85,false
+Regular 4G,Medium,25,340.00,124.00,1.85,false
+Regular 4G,Medium,26,356.00,140.00,1.85,false
+Regular 4G,Medium,27,416.00,132.00,1.85,false
+Regular 4G,Medium,28,328.00,112.00,1.85,false
+Regular 4G,Medium,29,240.00,108.00,1.85,false
+Regular 4G,Medium,30,1064.00,532.00,1.85,false
+Regular 4G,Heavy,1,3700.00,516.00,12.02,false
+Regular 4G,Heavy,2,3432.00,132.00,12.02,false
+Regular 4G,Heavy,3,2848.00,132.00,12.02,false
+Regular 4G,Heavy,4,3124.00,108.00,12.02,false
+Regular 4G,Heavy,5,2936.00,104.00,12.02,false
+Regular 4G,Heavy,6,3148.00,112.00,12.02,false
+Regular 4G,Heavy,7,3252.00,136.00,12.02,false
+Regular 4G,Heavy,8,3096.00,116.00,12.02,false
+Regular 4G,Heavy,9,3272.00,124.00,12.02,false
+Regular 4G,Heavy,10,3240.00,120.00,12.02,false
+Regular 4G,Heavy,11,3236.00,104.00,12.02,false
+Regular 4G,Heavy,12,3076.00,128.00,12.02,false
+Regular 4G,Heavy,13,3004.00,104.00,12.02,false
+Regular 4G,Heavy,14,3128.00,92.00,12.02,false
+Regular 4G,Heavy,15,3324.00,124.00,12.02,false
+Regular 4G,Heavy,16,2716.00,132.00,12.02,false
+Regular 4G,Heavy,17,3232.00,132.00,12.02,false
+Regular 4G,Heavy,18,2900.00,116.00,12.02,false
+Regular 4G,Heavy,19,3236.00,136.00,12.02,false
+Regular 4G,Heavy,20,3012.00,112.00,12.02,false
+Regular 4G,Heavy,21,3396.00,144.00,12.02,false
+Regular 4G,Heavy,22,3156.00,124.00,12.02,false
+Regular 4G,Heavy,23,2896.00,128.00,12.02,false
+Regular 4G,Heavy,24,2596.00,96.00,12.02,false
+Regular 4G,Heavy,25,3436.00,104.00,12.02,false
+Regular 4G,Heavy,26,3160.00,176.00,12.02,false
+Regular 4G,Heavy,27,2980.00,116.00,12.02,false
+Regular 4G,Heavy,28,3084.00,116.00,12.02,false
+Regular 4G,Heavy,29,3392.00,108.00,12.02,false
+Regular 4G,Heavy,30,3080.00,112.00,12.02,false
+Fast 3G,Light,1,528.00,0.00,0.01,false
+Fast 3G,Light,2,176.00,0.00,0.01,false
+Fast 3G,Light,3,192.00,0.00,0.01,false
+Fast 3G,Light,4,172.00,0.00,0.01,false
+Fast 3G,Light,5,168.00,0.00,0.01,false
+Fast 3G,Light,6,176.00,0.00,0.01,false
+Fast 3G,Light,7,176.00,0.00,0.01,false
+Fast 3G,Light,8,160.00,0.00,0.01,false
+Fast 3G,Light,9,172.00,0.00,0.01,false
+Fast 3G,Light,10,168.00,0.00,0.01,false
+Fast 3G,Light,11,172.00,0.00,0.01,false
+Fast 3G,Light,12,172.00,0.00,0.01,false
+Fast 3G,Light,13,188.00,0.00,0.01,false
