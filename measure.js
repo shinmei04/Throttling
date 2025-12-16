@@ -15,17 +15,13 @@ const TARGET_URLS = [
 
 // 実測RTT 9ms をベースにした設定
 const NETWORK_CONDITIONS = {
-    '5G': {
-        download: 500 * 1024 * 1024 / 8, // 500 Mbps
-        upload: 100 * 1024 * 1024 / 8,   // 100 Mbps
-        latency: 0                       // 追加なし (実測9msのみ)
-    },
+    'vanilla':null,
 
     // ■ 追加: Fast 4G (キャリアアグリゲーション/混雑していないLTE)
     'Fast 4G': {
         download: 100 * 1024 * 1024 / 8, // 100 Mbps
         upload: 50 * 1024 * 1024 / 8,
-        latency: 5                       
+        latency: 20                       
     },
 
     // 標準的な4G

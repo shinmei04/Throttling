@@ -10,7 +10,7 @@ tc_clear() {
 tc_fast4g() {
   tc_clear
   # Fast 4G:
-  # download ≒ 100Mbps, latency ≒ 5ms を再現
+  # download ≒ 100Mbps, latency ≒ 20ms を再現
   tc qdisc add dev "$IF" root handle 1: netem delay 20ms rate 100mbit
 }
 

@@ -4,12 +4,12 @@ const fs = require('fs');
 // ==========================================
 // 実験設定 (ベースラインと統一)
 // ==========================================
-const TRIAL_COUNT = 30; // 計測回数
-const OUTPUT_FILE = 'raw_prerender2000_data.csv'; // 保存ファイル名
+const TRIAL_COUNT = 1; // 計測回数
+const OUTPUT_FILE = 'raw_prerender30000_data.csv'; // 保存ファイル名
 const SKIP_THRESHOLD = 5; // 5回連続失敗でスキップ
 
 // 検証したい待ち時間 (今回は固定で実験する場合の例。必要ならここを変えて実行してください)
-const WAIT_TIME = 2000; // 例: 2秒待機
+const WAIT_TIME = 30000; // 例: 2秒待機
 
 const TARGETS = [
     { name: 'Light',  url: 'https://victim.lab-ish.com/', id: '#link-light' },
